@@ -14,7 +14,11 @@ As a GRC Officer, I was given the responsibility of evaluating GRC tools for a m
 
 <h2>Recommended GRC Platforms:</h2>
 
-<img src="https://img.shields.io/badge/-Enablon-000000?&style=for-the-badge&logo=Enablon&logoColor=white" /> <img src="https://img.shields.io/badge/-Sphera-808080?&style=for-the-badge&logo=Sphera&logoColor=white" /> <img src="https://img.shields.io/badge/-Quentic-4B0082?&style=for-the-badge&logo=Quentic&logoColor=white" /> <img src="https://img.shields.io/badge/-Intelex-8A2BE2?&style=for-the-badge&logo=Intelex&logoColor=white" /> <img src="https://img.shields.io/badge/-EcoOnline-FF0000?&style=for-the-badge&logo=EcoOnline&logoColor=white" />
+<a href="https://www.enablon.com" target="_blank"><img src="https://img.shields.io/badge/-Enablon-000000?&style=for-the-badge&logo=Enablon&logoColor=white" /></a>
+<a href="https://www.sphera.com" target="_blank"><img src="https://img.shields.io/badge/-Sphera-808080?&style=for-the-badge&logo=Sphera&logoColor=white" /></a>
+<a href="https://www.quentic.com" target="_blank"><img src="https://img.shields.io/badge/-Quentic-4B0082?&style=for-the-badge&logo=Quentic&logoColor=white" /></a>
+<a href="https://www.intelex.com" target="_blank"><img src="https://img.shields.io/badge/-Intelex-8A2BE2?&style=for-the-badge&logo=Intelex&logoColor=white" /></a>
+<a href="https://www.ecoonline.com" target="_blank"><img src="https://img.shields.io/badge/-EcoOnline-FF0000?&style=for-the-badge&logo=EcoOnline&logoColor=white" /></a>
 
 
 
